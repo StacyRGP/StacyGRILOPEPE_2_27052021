@@ -612,13 +612,13 @@ ul {
         }
 
         .hostingMain img {
-            height: 14rem;
+            height: 8rem;
         }
 
         .hostingPopular {
             grid-row: 1/2;
             border-radius: 0;
-            grid-template-rows: auto repeat(3, 12rem);
+            grid-template-rows: auto repeat(2, 10rem 10rem);
             grid-template-columns: 1fr;
         }
 
