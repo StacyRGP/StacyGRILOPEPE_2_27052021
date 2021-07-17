@@ -484,6 +484,7 @@ ul {
 
     .searchFormButton {
         display: none;
+        width: 100%;
     }
 
 
